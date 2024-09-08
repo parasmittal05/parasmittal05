@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 💬 Ask me about **Reactjs, Nodejs, c++ ,Python , js**
+- 💬 Ask me about **Reactjs, Nodejs, c++ ,Python , Javascript**
 
 - 📫 How to reach me **parasmittal588@gmail.com**
 
